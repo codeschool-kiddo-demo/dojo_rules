@@ -1,1 +1,4 @@
-hey hey
+deadly skills:
+* Git
+* C#
+* Elixir
